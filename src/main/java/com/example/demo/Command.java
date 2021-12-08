@@ -20,7 +20,7 @@ package com.example.demo;
             return description;
         }
 
-        public void execute() {
+        public void getAction() {
             action.run();
         }
     }
